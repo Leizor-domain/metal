@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+	<head>
+		
+		<title>Visit Dublin</title>
+		
+		<link rel="stylesheet" href="css/style.css">
+		
+	</head>
+
+	<body>
+	
+			<h1>Welcome to the Visit Dublin website</h1>
+			
+			<h2 class="subhead">The best place to find out local information about Dublin City Centre!</h2>
+			
+			<p class="p1"><b>A small capital with a huge reputation, Dublin's mix of heritage and hedonism will not disappoint. 
+			All you have to do is show up.</b></p>
+			
+			<div class="imgs">
+				<img src="images/dublin1.jpg" alt="Photo of Temple Bar, Dublin"/>
+				<img src="images/dublin2.jpg" alt="Photo of Hapenny Bridge, Dublin"/>
+				<img src="images/dublin3.jpg" alt="Photo of the Spire, Dublin"/>
+			</div>
+
+			<p class="p1">Dublin, and indeed Ireland, have come a long way in 100 years. 
+			Our music, art and literature have travelled the world and made an impact on </br> millions of hearts and minds. 
+			Today, the city is a multi-cultural, creative hub and in 2010 Dublin was even designated as a UNESCO City of </br>
+			Literature in recognition of its cultural profile and international standing as a city of literary excellence.</p>
+			
+			<div class="list1">
+			<p>Some of Dublin most popular sites, include:</p>
+			
+			<ul>
+				<li><a href="http://www.visitdublin.com/see-do/details/guinness-storehouse#53.343248|-6.284198|16">Guinness Storehouse</a></li>
+				<li><a href="http://www.visitdublin.com/see-do/details/dublin-zoo#53.355024|-6.304145|16">Dublin Zoo</a></li>
+				<li><a href="http://www.visitdublin.com/see-do/details/the-book-of-kells-exhibition-2#53.343662|-6.255920|16">Trinity College Library</a></li>
+				<li><a href="http://www.visitdublin.com/see-do/details/kilmainham-gaol#53.341890|-6.309781|16">Kilmainham Gaol</a></li>
+				<li><a href="http://www.visitdublin.com/see-do/details/dublin-castle#53.342900|-6.267419|16">Dublin Castle</a></li>
+			</ul>
+			</div>
+			
+	</body>
+
+</html>
